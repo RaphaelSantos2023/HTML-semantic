@@ -1,0 +1,33 @@
+header{
+    background-color: black;
+    color:white;
+    padding: 10px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.Fila{
+    display: flex;
+    justify-content: center;
+}
+.Entrance{
+    display: inline-block;
+    margin: 5px;
+    padding: 20px;
+    text-align: center;
+    background-color: #949494;
+    align-items: center;
+    justify-content:center;
+}
+.Entrance:hover{
+    background-color: white;
+}
